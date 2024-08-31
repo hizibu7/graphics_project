@@ -1,0 +1,67 @@
+﻿  Renderer.cpp
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(54,24): warning C4244: '=': 'GLuint'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(377,26): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(377,31): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(377,36): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(379,28): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(379,33): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(390,47): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(391,45): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(392,48): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(405,42): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(407,43): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(410,36): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(410,20): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(412,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(412,20): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(414,34): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(414,19): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(416,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(416,19): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(422,16): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(423,31): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(423,23): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(423,17): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(424,24): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(424,15): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(425,14): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(426,28): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(426,22): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(426,16): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(427,17): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(366,18): warning C4101: 'm1' :참조되지 않은 지역 변수입니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(370,16): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(370,13): warning C4101: 'g' :참조되지 않은 지역 변수입니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(370,10): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(478,55): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(479,55): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(480,55): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(481,50): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(482,50): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(483,50): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(484,54): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(485,54): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(486,54): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(490,56): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(491,51): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(492,55): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(540,55): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(541,55): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(542,55): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(543,50): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(544,50): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(545,50): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(546,54): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(547,54): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(548,54): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(551,56): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(552,51): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(553,55): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(574,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(674,65): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(675,40): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(676,32): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(677,54): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(678,83): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hizib\Downloads\glcode1\glcode1\Kinect_Sample_Re\Renderer.cpp(679,42): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Kinect_Sample_Re.vcxproj -> C:\Users\hizib\Downloads\glcode1\glcode1\x64\Debug\gltest.exe
